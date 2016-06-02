@@ -10,7 +10,7 @@
   "version": "0.0.1",
   "author": "tjconsult",
   "license": "MIT",
-  "description": "A simple meteor app for practicing the multiplication table",
+  "description": "A simple meteor app for practicing multiplication tables",
   "engines": {
     "node": "0.10.43"
   }
